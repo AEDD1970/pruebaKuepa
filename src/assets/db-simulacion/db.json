@@ -1,0 +1,96 @@
+{
+  "alumnos": [
+    {
+      "id": 1,
+      "nombre": "Juan",
+      "apellido": "Shyamalan",
+      "asistencia": "5",
+      "sede": ["1"],
+      "categoria": ["1","2","3"]
+
+
+    },
+    {
+    "id": 2,
+      "nombre": "Pedro",
+      "apellido": "Orcario",
+      "asistencia": "3",
+      "sede": ["2"],
+      "categoria": ["2","3"]
+
+    },
+    {
+    "id": 3,
+      "nombre": "Wilmer",
+      "apellido": "Nuñez",
+      "asistencia": "7",
+      "sede": ["4"],
+      "categoria": ["3"]
+    },
+    {
+     "id": 4,
+      "nombre": "Maria",
+      "apellido": "Jerusalen",
+      "asistencia": "9",
+      "sede": ["2"],
+      "categoria": ["1"]
+    },
+    {
+     "id": 5,
+      "nombre": "Pedro",
+      "apellido": "Birras",
+      "asistencia": "3",
+      "sede": ["3"],
+      "categoria": ["2"]
+    },
+    {
+     "id": 6,
+      "nombre": "Goleah",
+      "apellido": "Toro",
+      "asistencia": "5",
+      "sede": ["3"],
+      "categoria": ["1","3"]
+    },
+    {
+     "id": 7,
+      "nombre": "Ronaldo",
+      "apellido": "Garzon",
+      "asistencia": "10",
+      "sede": ["1"],
+      "categoria": ["2"]
+    }
+  ],
+  "sedes": [
+    {
+      "sede": "colombia",
+      "id": 1
+    },
+    {
+      "sede": "chile",
+      "id": 2
+    },
+    {
+      "sede": "argentina",
+      "id": 3
+    },
+    {
+      "sede": "mexico",
+      "id": 4
+    }
+  ],
+  "categorias": [
+    {
+      "categoria": "ingles",
+      "id": 1
+    },
+    {
+      "categoria": "bachillerato",
+      "id": 2
+    },
+    {
+      "categoria": "tecnico software",
+      "id": 3
+    }
+  ]
+  
+}
