@@ -28,3 +28,12 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ## use db.json
 http://localhost:3000/db
+
+
+for better observation of the data use the api json-ser.
+
+Steps
+
+npm install -g json-server
+
+json-server --watch db.json
